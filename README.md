@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Asset Management System (AMS)
 
 A comprehensive asset management system with role-based access control.
@@ -147,3 +148,7 @@ CAPSTONE-AMS/
 ## Support
 
 For issues or questions, please contact your system administrator.
+=======
+# CAPSTONE_LAB_AMS
+Laboratory Asset Management System built with PHP and MySQL for Quezon City University. Designed to track and manage computer laboratory assets with predictive and descriptive analytics. Developed as a capstone project, featuring both frontend and backend implementation.
+>>>>>>> 091d4c922c54506b509f49cf0e88b6f89e670e94
